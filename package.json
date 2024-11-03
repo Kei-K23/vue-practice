@@ -1,5 +1,5 @@
 {
-  "name": "RecipeHub",
+  "name": "FoodHub",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "pinia": "^2.2.5",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5"
   },

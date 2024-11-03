@@ -1,1 +1,1 @@
-# RecipeHub 🍛
+# FoodHub 🍛

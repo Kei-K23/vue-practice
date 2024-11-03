@@ -7,7 +7,7 @@ import { RouterLink } from "vue-router";
     <div class="container mx-auto px-4">
       <div class="flex items-center justify-between h-16">
         <RouterLink to="/" class="text-2xl font-bold text-primary">
-          Recipe Hub
+          Food Hub 🍛
         </RouterLink>
         <div class="flex space-x-4">
           <RouterLink
