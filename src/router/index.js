@@ -5,7 +5,7 @@ import RecipeDetails from "../views/RecipeDetails.vue";
 
 const routes = [
   { path: "/", component: Home },
-  { path: "/favorite", component: Favorite },
+  { path: "/favorites", component: Favorite },
   { path: "/recipes/:id", component: RecipeDetails },
 ];
 
