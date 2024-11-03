@@ -6,7 +6,7 @@ import RecipeDetails from "../views/RecipeDetails.vue";
 const routes = [
   { path: "/", component: Home },
   { path: "/favorites", component: Favorite },
-  { path: "/recipes/:id", component: RecipeDetails },
+  { path: "/recipes/:id", name: "recipe-details", component: RecipeDetails },
 ];
 
 const router = createRouter({
